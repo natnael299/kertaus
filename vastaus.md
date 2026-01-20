@@ -21,3 +21,5 @@
   
   ### Github ja git eroavat näillä syillä:
         - git on asenettu sovelluksen jolla kodataan ja  github on oma toiminen netti sivu
+        - git:lla hallitetaan kaikki muutoksia askel askelta
+    
